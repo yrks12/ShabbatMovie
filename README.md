@@ -1,4 +1,3 @@
-Sure, I will update the `README.md` to exclude the `requirements.txt` section and provide the correct formatting.
 
 ```markdown
 # Shabbat Movie Player
