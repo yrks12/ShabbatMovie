@@ -53,17 +53,4 @@ This project automates the process of playing movies using VLC Media Player at a
 - **Adjust User Activity Simulation**: 
   To modify the user activity simulation, you can change the actions in the `simulate_user_activity` function.
 
-## Important Notes
-
-- Ensure that the computer does not go into sleep mode, as this will interrupt the script.
-- The script includes a fail-safe for `pyautogui` (moving the mouse to the top-left corner of the screen will abort the script).
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgments
-
-- [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/) for simulating user input.
-- [VideoLAN](https://www.videolan.org/) for VLC Media Player.
 ```
