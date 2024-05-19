@@ -68,5 +68,3 @@ This project is licensed under the MIT License.
 - [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/) for simulating user input.
 - [VideoLAN](https://www.videolan.org/) for VLC Media Player.
 ```
-
-You can copy and paste this content into a file named `README.md` in your project directory.
