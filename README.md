@@ -1,5 +1,4 @@
 
-```markdown
 # Shabbat Movie Player
 
 This project automates the process of playing movies using VLC Media Player at a scheduled time. It simulates user activity to prevent the computer from going idle and then plays movies from a specified folder.
